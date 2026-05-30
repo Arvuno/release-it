@@ -462,3 +462,6 @@ Are you using release-it at work? Please consider [sponsoring me][14]!
 [82]: ./.github/CONTRIBUTING.md
 [83]: https://github.com/release-it/release-it/issues/new
 [84]: ./LICENSE
+
+<!-- Thanks for contributing! -->
+
